@@ -1,0 +1,126 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Web.Site1" %>
+
+<!DOCTYPE html>
+
+<html class="wide wow-animation" lang="en">
+<head runat="server">
+    <title>Erdem Gunay | Game Designer & Developer</title>
+    <!--######################################## 
+        
+        Cay guzel demle, hayat guzel Erdem'le  :)          
+        
+        ######################################## -->
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="icon" href="images/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CMuli:100,300,400,600,800">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/fonts.css">
+    <link href="css/lightgallery.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        .ie-panel {
+            display: none;
+            background: #212121;
+            padding: 10px 0;
+            box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);
+            clear: both;
+            text-align: center;
+            position: relative;
+            z-index: 1;
+        }
+
+        html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {
+            display: block;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="ie-panel"><a href="http://windows.microsoft.com/en-US/internet-explorer/">
+            <img src="images/ie8-panel/warning_bar_0000_us.jpg" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
+        <div class="preloader" id="loading">
+            <div class="preloader-body">
+                <div id="loading-center-object">
+                    <div class="object" id="object_four"></div>
+                    <div class="object" id="object_three"></div>
+                    <div class="object" id="object_two"></div>
+                    <div class="object" id="object_one"></div>
+                </div>
+            </div>
+        </div>
+        <div class="page">
+            <!-- FScreen-->
+            <section class="section page-header-3">
+                <!-- RD Navbar-->
+                <div class="rd-navbar-wrap">
+                    <nav class="rd-navbar rd-navbar-classic" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-fixed" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static" data-lg-stick-up-offset="1px" data-xl-stick-up-offset="1px" data-xxl-stick-up-offset="1px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
+                        <div class="rd-navbar-main">
+                            <!-- RD Navbar Panel-->
+                            <div class="rd-navbar-panel">
+                                <!-- RD Navbar Toggle-->
+                                <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
+                                <!-- RD Navbar Brand-->
+                                <div class="rd-navbar-brand"><a class="brand" href="Default.aspx">
+                                    <img class="brand-logo-dark" src="images/logo-default-194x20.png" alt="" width="194" height="20" srcset="images/logo-default-388x40.png 2x" /><img class="brand-logo-light" src="images/logo-default-inverse-134x41.png" alt="" width="134" height="41" srcset="images/logo-default-inverse-268x82.png 2x" /></a></div>
+                            </div>
+                            <div class="rd-navbar-nav-wrap">
+                                <p class="rd-navbar-slogan wow clipInLeft">6 year old me wanted to make games, I'm here to comply.</p>
+                                <!-- RD Navbar Nav-->
+                                <ul class="rd-navbar-nav">
+                                    <li class="rd-nav-item"><a class="rd-nav-link" href="Default.aspx">Home</a>
+                                    </li>
+                                    <li class="rd-nav-item"><a class="rd-nav-link" href="Portfolio.aspx">Portfolio</a>
+                                    </li>
+
+                                    <li class="rd-nav-item"><a class="rd-nav-link" href="Contact.aspx">Contact</a>
+                                    </li>
+                                </ul>
+                                <div class="rd-navbar-element rd-navbar-element_centered">
+                                    <div class="group-xs"><a class="icon icon-sm link-social-2 mdi mdi-github-box" href="https://github.com/merdemg" target="_blank"></a><a class="icon icon-sm link-social-2 mdi mdi-linkedin-box" href="https://www.linkedin.com/in/merdemgunay/" target="_blank"></a><a class="icon icon-sm link-social-2 mdi mdi-email" target="_blank" href="mailto:erdemmehmetgunay@gmail.com"></a><span>erdemmehmetgunay@gmail.com</span></div>
+                                </div>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </section>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+            <!-- Page Footer-->
+
+            <footer class="section footer-light bg-white footer-bandit">
+                <div class="footer-light-main">
+                    <div class="brand-outer"><a class="brand" href="Default.aspx">
+                        <img class="brand-logo-dark" src="images/logo-default-194x20.png" alt="" width="194" height="20" srcset="images/logo-default-388x40.png 2x" /></a></div>
+                    <ul class="list footer-light-list">
+                        <li><a href="Default.aspx">Home</a></li>
+                        <li><a href="Portfolio.aspx">Portfolio</a></li>
+                        <li><a href="Contact.aspx">Contact</a></li>
+                    </ul>
+                    <p class="rights"><span>&copy;&nbsp; </span><span class="copyright-year"></span><span>&nbsp;</span><span>Erdem Gunay</span><span>.&nbsp;</span></p>
+                </div>
+            </footer>
+        </div>
+        <div class="snackbars" id="form-output-global"></div>
+        <script src="js/core.min.js"></script>
+        
+        <script src="js/script.js"></script>
+        
+    </form>
+    <script src="js/lightgallery-all.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $("#lightgallery").lightGallery({
+            selector:'.gallery'});
+        });
+    </script>
+</body>
+</html>
