@@ -57,9 +57,9 @@
               <div class="offset-top-4">
                 <p class="big">
                     I am a game designer and a game developer based in Toronto, Canada.
-Before my career in the game industry, I studied industrial design and photography. I began my game development journey as a game programming student in George Brown College. During that time, I published an Android game on Google Play and I worked in Wero Creative as an intern programmer. <br /><br />Next, I attended grad school in George Brown again, to study Game Design. During that time, I spearheaded the projects Exorcism at Dusckridge Manor and Havoc Highway. I kept working in the industry in this time as I worked with Armor 2020 to develop their mobile Augmented Reality App.<br /><br />
+Before my career in the game industry, I studied industrial design and photography. I began my game development journey as a game programming student in George Brown College. During that time, I published <a href="http://www.erdemgunay.com/Project.aspx?id=6">an Android game on Google Play</a> and I worked in <a href="http://www.erdemgunay.com/Project.aspx?id=5">Wero Creative as a programmer.</a> <br /><br />Next, I attended grad school in George Brown again, to study Game Design. During that time, I spearheaded the projects <a href="http://www.erdemgunay.com/Project.aspx?id=1">Exorcism at Dusckridge Manor</a> and <a href="http://www.erdemgunay.com/Project.aspx?id=2">Havoc Highway</a>. I kept working in the industry in this time as I worked with <a href="http://www.erdemgunay.com/Project.aspx?id=4">Armor 2020 to develop their mobile Augmented Reality App</a>.<br /><br />
 
-Recently, I’ve worked with Dibs to work on Wild Sanctuary, a mobile Augmented Reality game. I am currently working with Regularly Scheduled Programming to develop an unannounced survival horror game, and an unannounced mobile game for Silly Walk Games.
+Recently, I’ve worked with Dibs to work on <a href="http://www.erdemgunay.com/Project.aspx?id=3">Wild Sanctuary, a mobile Augmented Reality game</a>. I am currently working with <a href="http://www.regularlyscheduledprogramming.ca">Regularly Scheduled Programming to develop an unannounced survival horror game</a>, and <a href="https://www.sillywalkgames.com">an unannounced mobile game for Silly Walk Games</a>.
 </p>
          
               </div>
