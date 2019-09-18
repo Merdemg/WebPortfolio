@@ -57,15 +57,18 @@
               <div class="offset-top-4">
                 <p class="big">
                     I am a game designer and a game developer based in Toronto, Canada.
-Before my career in the game industry, I studied industrial design and photography. I began my game development journey as a game programming student in George Brown College. During that time, I published <a href="http://www.erdemgunay.com/Project.aspx?id=6">an Android game on Google Play</a> and I worked in <a href="http://www.erdemgunay.com/Project.aspx?id=5">Wero Creative as a programmer.</a> <br /><br />Next, I attended grad school in George Brown again, to study Game Design. During that time, I spearheaded the projects <a href="http://www.erdemgunay.com/Project.aspx?id=1">Exorcism at Dusckridge Manor</a> and <a href="http://www.erdemgunay.com/Project.aspx?id=2">Havoc Highway</a>. I kept working in the industry in this time as I worked with <a href="http://www.erdemgunay.com/Project.aspx?id=4">Armor 2020 to develop their mobile Augmented Reality App</a>.<br /><br />
+Before my career in the game industry, I studied industrial design and photography. I began my game development journey as a game programming student in George Brown College. During that time, I published <a href="http://www.erdemgunay.com/Project.aspx?id=6">an Android game on Google Play</a> and I worked for <a href="http://www.erdemgunay.com/Project.aspx?id=5">Wero Creative as a programmer.</a> <br /><br />Next, I attended grad school, again in George Brown College, to study Game Design. During that time, I spearheaded the projects <a href="http://www.erdemgunay.com/Project.aspx?id=1">Exorcism at Dusckridge Manor</a> and <a href="http://www.erdemgunay.com/Project.aspx?id=2">Havoc Highway</a>. I kept working in the industry as well, I worked for <a href="http://www.erdemgunay.com/Project.aspx?id=4">Armor 2020 to develop their mobile Augmented Reality App</a>.<br /><br />
 
-Recently, I’ve worked with Dibs to work on <a href="http://www.erdemgunay.com/Project.aspx?id=3">Wild Sanctuary, a mobile Augmented Reality game</a>. I am currently working with <a href="http://www.regularlyscheduledprogramming.ca">Regularly Scheduled Programming to develop an unannounced survival horror game</a>, and <a href="https://www.sillywalkgames.com">an unannounced mobile game for Silly Walk Games</a>.
+<%--Recently, I’ve worked with Dibs to work on <a href="http://www.erdemgunay.com/Project.aspx?id=3" >Wild Sanctuary, a mobile Augmented Reality game</a>.
+                    --%>
+                    Recently, I've been working on a mobile Augmented Reality game for a client.
+                    I am also currently working with <a href="http://www.regularlyscheduledprogramming.ca">Regularly Scheduled Programming to develop an unannounced survival horror game</a>, and <a href="https://www.sillywalkgames.com">an unannounced mobile game for Silly Walk Games</a>.
 </p>
          
               </div>
-                <div class="row align-items-center">
+                <%--<div class="row align-items-center">
                 <a class="button button-secondary button-winona" href="ErdemGunayResume-Designer.pdf" target="_blank">Designer Resume </a><a class="button button-secondary-outline ml-3 button-winona mt-0" href="ErdemGunayResume-Developer.pdf" target="_blank">Developer Resume</a>
-                    </div>
+                    </div>--%>
             </div>
             
           </div>
@@ -95,11 +98,11 @@ Recently, I’ve worked with Dibs to work on <a href="http://www.erdemgunay.com/
                 <div class="portfolio-img"><a href="Project.aspx?id=2"><img src="images/portfolio-02-370x280.jpg" alt="" width="370" height="280"/></a></div><a class="portfolio-title" href="Project.aspx?id=2">Havoc Highway</a>
               </div>
             </div>
-            <div class="col-sm-6 col-lg-4">
+            <%--<div class="col-sm-6 col-lg-4">
               <div class="portfolio">
                 <div class="portfolio-img"><a href="Project.aspx?id=3"><img src="images/portfolio-03-370x280.jpg" alt="" width="370" height="280"/></a></div><a class="portfolio-title" href="Project.aspx?id=3">Wild Sanctuary</a>
               </div>
-            </div>
+            </div>--%>
             <div class="col-sm-6 col-lg-4">
               <div class="portfolio">
                 <div class="portfolio-img"><a href="Project.aspx?id=4"><img src="images/portfolio-04-370x280.jpg" alt="" width="370" height="280"/></a></div><a class="portfolio-title" href="Project.aspx?id=4">2020 Armor</a>

@@ -48,11 +48,11 @@
                 <div class="portfolio-img"><a href="Project.aspx?id=2"><img src="images/portfolio-02-370x280.jpg" alt="" width="370" height="280"/></a></div><a class="portfolio-title" href="Project.aspx?id=2">Havoc Highway</a>
               </div>
             </div>
-            <div class="col-sm-6 col-lg-4">
+            <%--<div class="col-sm-6 col-lg-4">
               <div class="portfolio">
                 <div class="portfolio-img"><a href="Project.aspx?id=3"><img src="images/portfolio-03-370x280.jpg" alt="" width="370" height="280"/></a></div><a class="portfolio-title" href="Project.aspx?id=3">Wild Sanctuary</a>
               </div>
-            </div>
+            </div>--%>
             <div class="col-sm-6 col-lg-4">
               <div class="portfolio">
                 <div class="portfolio-img"><a href="Project.aspx?id=4"><img src="images/portfolio-04-370x280.jpg" alt="" width="370" height="280"/></a></div><a class="portfolio-title" href="Project.aspx?id=4">2020 Armor</a>
