@@ -63,12 +63,14 @@ namespace Web
                     ltCompany.Text = "<b> Company: </b>Dibs";
                     ltRole.Text = "Lead Programmer / Game Designer";
                     ltEngine.Text = "<b>Engine: </b>Unity 3D (Augmented Reality)";
-                    ltDesc.Text = "An AR adventure game which encourages discovery of rare and exotic animals through feeding, nurturing and building their habitats.";
+                    ltDesc.Text = "An AR adventure game which encourages discovery of rare and exotic animals through feeding, nurturing and building their habitats. Won 2nd place in Niantic Beyond Reality Developer Contest.";
                     ltResp.Text = "<ul class='list-marked'><li>Designed the mini games keeping the limitations and possiblities of Augmented Reality in mind.</li>" +
                         "<li>Designed the UI and gameplay feedback</li>" +
                         "<li>Oversaw the programming team by assigning sprint tasks, helped with their tasks and reviewed their code</li></ul>";
-                    ltImage.Text = "<img src='../images/wild-sanctuary-bg.jpg'/>";
-                    pnlImages.Visible = false;
+                    ltImage.Text = "<iframe width='100%' height='450' src='https://www.youtube.com/embed/dOo1e_wFP5w' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>";
+                    //ltImage.Text = "<img src='../images/wild-sanctuary-bg.jpg'/>";
+                    images = new List<string> { "../images/wild-sanctuary-bg.jpg" };
+                    SetImages(images);
                     break;
                 case 4:
                     ltTitle.Text = "2020 Armor App";
@@ -95,7 +97,7 @@ namespace Web
                     ltResp.Text = "<ul class='list-marked'><li>Prototyped the combat, upgrades, player feedback</li>" +
                         "<li>Prototyped enemy AI with different squad roles, and an Ally mothership behaviour</li>" +
                         "<li>Debugged the code and ensured future reliability as well as making sure that the code is designer friendly</li></ul>";
-                    ltImage.Text = "<img src='../images/giphy.gif'>";
+                    ltImage.Text = "<iframe width='100%' height='450' src='https://www.youtube.com/embed/JNA7Ww8nCfA' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>";
                     pnlImages.Visible = false;
                     break;
                 case 6:
@@ -109,8 +111,8 @@ namespace Web
                         "<li>Coded the main game loop</li>" +
                         "<li>Debugged the game and released it on Google Play</li></ul>";
                     ltImage.Text = "<img src='../images/bop-0.jpg'/>";
-                   images  = new List<string> { "../images/bop-0.jpg", "../images/bop-1.jpg", "../images/bop-2.jpg", "../images/bop-3.jpg", };
-                    
+                    images = new List<string> { "../images/bop-0.jpg", "../images/bop-1.jpg", "../images/bop-2.jpg", "../images/bop-3.jpg", };
+
                     SetImages(images);
 
                     break;
@@ -126,8 +128,38 @@ namespace Web
                         "<li>Scripted the major part of the gameplay through blueprints</li></ul>";
                     ltImage.Text = "<img src='../images/acc3.jpg'/>";
 
-                    images = new List<string>{ "../images/acc.jpg", "../images/acc2.jpg", "../images/acc3.jpg", "../images/acc4.jpg" , "../images/acc5.jpg" };
+                    images = new List<string> { "../images/acc.jpg", "../images/acc2.jpg", "../images/acc3.jpg", "../images/acc4.jpg", "../images/acc5.jpg" };
                     SetImages(images);
+                    break;
+                case 8:
+                    ltTitle.Text = "Wrest";
+                    ltBreadcrumbTitle.Text = "Wrest";
+                    ltCompany.Text = "<b> Company: </b>Shaftesbury";
+                    ltRole.Text = "Developer";
+                    ltEngine.Text = "<b>Engine: </b>Unity 3D (Virtual Reality)";
+                    ltDesc.Text = "A Virtual Reality horror game, released on Steam.";
+                    ltResp.Text = "<ul class='list-marked'><li>Prototyped and developed many of the game's events and mechanics</li>" +
+                        "<li>Created tools for the designers and ensured they are easy to work with</li>" +
+                        "<li>Worked on checkpoint systems, terminals, interactable objects, scripted events and more</li>" +
+                        "<li>Fixed issues encountered by Steam users after the release</li></ul>";
+                    ltImage.Text = "<iframe width='100%' height='450' src='https://www.youtube.com/embed/MYdybj4Uwqw' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>";
+
+                    pnlImages.Visible = false;
+                    break;
+                case 9:
+                    ltTitle.Text = "Bubble Bloom";
+                    ltBreadcrumbTitle.Text = "Bubble Bloom";
+                    ltCompany.Text = "<b> Company: </b>Shaftesbury";
+                    ltRole.Text = "Developer";
+                    ltEngine.Text = "<b>Engine: </b>Unity 3D";
+                    ltDesc.Text = "A VR experience, ported to iOS and released on the App Store";
+                    ltResp.Text = "<ul class='list-marked'><li>Designed and developed most of the events and mechanics in the game</li>" +
+                        "<li>Communicated directly with the lead designer to ensure the mechanics developed fit with the vision </li>" +
+                        "<li>Bubble Bloom is part of a larger project with a wider game selection, designed to reduce stress levels of kids with an AI that cheks the engagement level of kids in the background</li>" +
+                        "<li>Designed and prototyped other games that will be a part of the larger release</li></ul>";
+                    ltImage.Text = "<iframe width='100%' height='450' src='https://www.youtube.com/embed/j8kh9VzRQ3Y' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>";
+
+                    pnlImages.Visible = false;
                     break;
                 default:
                     break;
