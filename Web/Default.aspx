@@ -91,9 +91,9 @@ Next, I attended grad school to study Game Design. I took part in 2 projects, Ex
                         </p>
 
                     </div>
-                    <%--<div class="row align-items-center">
+                    <div class="row align-items-center">
                 <a class="button button-secondary button-winona" href="ErdemGunayResume-Designer.pdf" target="_blank">Designer Resume </a><a class="button button-secondary-outline ml-3 button-winona mt-0" href="ErdemGunayResume-Developer.pdf" target="_blank">Developer Resume</a>
-                    </div>--%>
+                    </div>
                 </div>
 
             </div>
