@@ -26,14 +26,14 @@
                                 <img src="images/decor-04-141x36.png" alt="" width="141" height="36" />
                             </div>
                             <h1 class="retro-head"><span class="retro-head-divider"></span><span class="retro-head-text">I’m Erdem Gunay,<br class="d-none d-sm-block">
-                                <span class="retro-head-text-accent">Game</span> Designer &
+                                <span class="retro-head-text-accent">Software</span> Engineer &
                         <br class="d-none d-sm-block">
-                                Developer</span>
+                                Game Developer</span>
                             </h1>
                             <p class="box-retro-text">
                                 Hi!
                                 <br />
-                                I design and develop games in Unity and Unreal Engine. I am experienced in Virtual Reality and Augmented Reality.
+                                I engineer games and applications in Unity and Unreal Engines. I am an expert in AR/VR development, multiplayer networking, and backend services.
                             </p>
                             <a class="button button-retro" href="Portfolio.aspx"><span class="button-retro-text">View My Portfolio</span><span class="button-retro-icon mdi mdi-arrow-right"></span></a>
                         </div>
@@ -70,29 +70,18 @@
                     </div>
                     <div class="offset-top-4">
                         <p class="big">
-                            I am a game designer and developer based in Toronto, Canada.<br />
+                            Software Engineer | Toronto, Canada<br />
                             <br />
-                            Recently I've been working on Wrest, a VR horror game, released on Steam, as well as Bubble Bloom, a mobile game released on App Store. Both releases are from Shaftesbury Tech.<br />
-                            I've also worked with companies such as Dibs, 2020 Armor, Silly Walk Games and Wero Creative. I'm also a part of Regularly Scheduled Programming Games team.<br />
+                            With over six years of professional experience, I specialize in Unity Engine, AR/VR development, multiplayer networking, and backend services.
+                            My portfolio includes released titles like Vegas Infinite (formerly PokerStars VR) from Lucky VR, Clirio Viewer from Clirio, and Wrest from Shaftesbury.
+                            I've collaborated with leading companies such as Seed Interactive, Dibs, 2020 Armor, and Wero Creative. <br />
                             <br />
-
-                            Before my career in the game industry, I studied industrial design and photography. I began my game development journey as a game programming student in George Brown College. During that time, I published an Android game on Google Play and I worked at Wero Creative as a programmer.
-Next, I attended grad school to study Game Design. I took part in 2 projects, Exorcism at Dusckridge Manor and Havoc Highway which we showcased at Level Up 2019 event. At the same time, I worked with Armor 2020 to develop their mobile Augmented Reality App.<br />
-                            <br />
-                            You can learn more about my projects on my portfolio.<br />
-                            if you wish to contact me, send me an email at: <a href="mailto: erdemmehmetgunay@gmail.com">erdemmehmetgunay@gmail.com</a>
-
-                            <%--Before my career in the game industry, I studied industrial design and photography. I began my game development journey as a game programming student in George Brown College. During that time, I published <a href="http://www.erdemgunay.com/Project.aspx?id=6">an Android game on Google Play</a> and I worked for <a href="http://www.erdemgunay.com/Project.aspx?id=5">Wero Creative as a programmer.</a> <br /><br />Next, I attended grad school, again in George Brown College, to study Game Design. During that time, I spearheaded the projects <a href="http://www.erdemgunay.com/Project.aspx?id=1">Exorcism at Dusckridge Manor</a> and <a href="http://www.erdemgunay.com/Project.aspx?id=2">Havoc Highway</a>. I kept working in the industry as well, I worked for <a href="http://www.erdemgunay.com/Project.aspx?id=4">Armor 2020 to develop their mobile Augmented Reality App</a>.<br /><br />--%>
-
-                            <%--Recently, I’ve worked with Dibs to work on <a href="http://www.erdemgunay.com/Project.aspx?id=3" >Wild Sanctuary, a mobile Augmented Reality game</a>.
-                            --%>
-                            <%--Recently, I've been working on a mobile Augmented Reality game for a client.
-                    I am also currently working with <a href="http://www.regularlyscheduledprogramming.ca">Regularly Scheduled Programming to develop an unannounced survival horror game</a>, and <a href="https://www.sillywalkgames.com">an unannounced mobile game for Silly Walk Games</a>.--%>
+                            Explore my projects on my portfolio, or feel free to reach out at <a href="mailto: erdemmehmetgunay@gmail.com">erdemmehmetgunay@gmail.com</a>
                         </p>
-
                     </div>
                     <div class="row align-items-center">
-                <a class="button button-secondary button-winona" href="ErdemGunayResume-Designer.pdf" target="_blank">Designer Resume </a><a class="button button-secondary-outline ml-3 button-winona mt-0" href="ErdemGunayResume-Developer.pdf" target="_blank">Developer Resume</a>
+                        <!-- <a class="button button-secondary button-winona" href="ErdemGunayResume-Designer.pdf" target="_blank">Designer Resume </a> -->
+                        <a class="button button-secondary-outline ml-3 button-winona mt-0" href="ErdemGunay-Resume.pdf" target="_blank">My Resume</a>
                     </div>
                 </div>
 
