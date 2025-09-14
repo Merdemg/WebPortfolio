@@ -161,6 +161,51 @@ namespace Web
 
                     pnlImages.Visible = false;
                     break;
+                case 10:
+                    ltTitle.Text = "Qatar AR";
+                    ltBreadcrumbTitle.Text = "Qatar AR";
+                    ltCompany.Text = "<b> Company: </b>Seed Interactive";
+                    ltRole.Text = "Designer & Developer";
+                    ltEngine.Text = "<b>Engine: </b>Unity 3D";
+                    ltDesc.Text = "A mobile AR game commissioned by the Qatar Government";
+                    ltResp.Text = "<ul class='list-marked'><li>Designed and developed the gameplay loop</li>" +
+                        "<li>Implemented 1v1 multiplayer with Photon Network</li>" +
+                        "<li>Commissioned by the Qatari Government as a spin off World Cup game</li>";
+                    ltImage.Text = "<iframe width='100%' height='450' src='https://www.youtube.com/embed/8Iae0lxsE54?si=rMKreL-vowV5JS6Y' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>";
+
+                    pnlImages.Visible = false;
+                    break;
+                case 11:
+                    ltTitle.Text = "Clirio";
+                    ltBreadcrumbTitle.Text = "Clirio";
+                    ltCompany.Text = "<b> Company: </b>Clirio";
+                    ltRole.Text = "Software Engineer";
+                    ltEngine.Text = "<b>Engine: </b>Unity 3D";
+                    ltDesc.Text = "An AR app to capture georeferenced images, notes and 3D LiDAR scans, to increase effeciency of engineering teams.";
+                    ltResp.Text = "<ul class='list-marked'><li>Developed and released Clirio View, an Augmented Reality (AR) app for hololens and iOS</li>" +
+                        "<li>Owned offline mode for the app, cached viewed entries locally using a SQLite database</li>" +
+                        "<li>Designed and implemented UI interactions optimized for hand-tracking technology</li>";
+                    ltImage.Text = "<iframe width='100%' height='450' src='https://www.youtube.com/embed/e6fsVmhUtrQ?si=QRPQi5t9oFKx5Mhs' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>";
+
+                    pnlImages.Visible = false;
+                    break;
+                case 12:
+                    ltTitle.Text = "PokerStars VR";
+                    ltBreadcrumbTitle.Text = "PokerStars VR (Vegas Infinite)";
+                    ltCompany.Text = "<b> Company: </b>Lucky VR";
+                    ltRole.Text = "Software Engineer";
+                    ltEngine.Text = "<b>Engine: </b>Unity 3D";
+                    ltDesc.Text = " Vegas Infinite (formerly PokerStars VR), released on Steam, PlayStation 5, Quest, and mobile.";
+                    ltResp.Text = "<ul class='list-marked'><li>Owned development of customizable player profiles in an extensible and maintainable manner. Responsible for both front end (UI & Photon network events) and back end (cloud events for AWS) development and maintenance.</li>" +
+                        "<li>Reworked the player stats system, re-designed the flow and wrote network stat requests in photon plugin and cloud code layers</li>" +
+                        "<li>Launched Club+, a new tier of monthly subscription and in-game deliverables that come with it</li>" +
+                        "<li>Reworked subscription, profile, social ui elements using Noesis UI and xaml</li>" +
+                        "<li>Developed tools for QA to test subscription features</li>" +
+                        "<li>Maintained and iterated on subscription related features on client and cloud code sides</li>";
+                    ltImage.Text = "<iframe width='100%' height='450' src='https://www.youtube.com/embed/sA7h1DCWq1o?si=4Uh9uU9wIQ7M0iE4' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>";
+
+                    pnlImages.Visible = false;
+                    break;
                 default:
                     break;
             }

@@ -89,7 +89,7 @@
         </div>
 
     </section>
-    <!-- Pricing plans-->
+    <!-- Portfolio items -->
     <section class="section section-lg text-center bg-gray-100 section-relative">
         <div class="decor decor-left decor-10 wow slideInUpSmall" data-parallax-scroll="{&quot;y&quot;: 60,  &quot;smoothness&quot;: 30}">
             <img src="images/decor-06-40x40.png" alt="" width="40" height="40" />
@@ -104,6 +104,37 @@
         </div>
         <div class="container ot50">
             <div class="row row-30 row-xl-70 justify-content-center">
+
+                                
+                <div class="col-sm-6 col-lg-4">
+                    <div class="portfolio">
+                        <div class="portfolio-img">
+                            <a href="Project.aspx?id=12">
+                                <img src="images/portfolio-pokerstarsvr-740x560.png" alt="" width="370" height="280" /></a>
+                        </div>
+                        <a class="portfolio-title" href="Project.aspx?id=12">PokerStars VR</a>
+                    </div>
+                </div>
+                
+                <div class="col-sm-6 col-lg-4">
+                    <div class="portfolio">
+                        <div class="portfolio-img">
+                            <a href="Project.aspx?id=11">
+                                <img src="images/portfolio-clirio.png" alt="" width="370" height="280" /></a>
+                        </div>
+                        <a class="portfolio-title" href="Project.aspx?id=11">Clirio</a>
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-lg-4">
+                    <div class="portfolio">
+                        <div class="portfolio-img">
+                            <a href="Project.aspx?id=10">
+                                <img src="images/portfolio-seed2.png" alt="" width="370" height="280" /></a>
+                        </div>
+                        <a class="portfolio-title" href="Project.aspx?id=10">Qatar AR</a>
+                    </div>
+                </div>
 
                 <div class="col-sm-6 col-lg-4">
                     <div class="portfolio">
