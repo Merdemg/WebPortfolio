@@ -72,11 +72,12 @@
                         <p class="big">
                             Software Engineer | Toronto, Canada<br />
                             <br />
-                            With over six years of professional experience, I specialize in Unity Engine, AR/VR development, multiplayer networking, and backend services.
-                            My portfolio includes released titles like Vegas Infinite (formerly PokerStars VR) from Lucky VR, Clirio Viewer from Clirio, and Wrest from Shaftesbury.
-                            I've collaborated with leading companies such as Seed Interactive, Dibs, 2020 Armor, and Wero Creative. <br />
+                            With close to a decade of professional experience, I specialize in Unity Engine, AR/VR development, multiplayer networking, and backend services. I have experience leading teams to success and mentoring junior devs.<br />
                             <br />
-                            Explore my projects on my portfolio, or feel free to reach out at <a href="mailto: erdemmehmetgunay@gmail.com">erdemmehmetgunay@gmail.com</a>
+                            My portfolio includes released titles such as Vegas Infinite (formerly PokerStars VR) from Lucky VR, Clirio app from Clirio Inc, and Wrest from Shaftesbury.<br />
+                            <%-- i've collaborated with leading companies such as seed interactive, dibs, 2020 armor, and wero creative. <br />--%>
+                            <br />
+                            Explore the projects in my portfolio, and feel free to reach out at <a href="mailto: erdemmehmetgunay@gmail.com">erdemmehmetgunay@gmail.com</a>
                         </p>
                     </div>
                     <div class="row align-items-center">
